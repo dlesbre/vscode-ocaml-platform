@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Revert quoted string literal highlighting removal (#1871)
+
 ## 1.30.1
 
 - Enhance dune syntax highlighting for ctypes and deps (#1851)
